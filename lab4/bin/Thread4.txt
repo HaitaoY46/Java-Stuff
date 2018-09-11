@@ -1,0 +1,2466 @@
+Bet made at 2018-09-07 15:07:13.828
+Y bets 170
+Plying a new game...
+Dice rolled at 2018-09-07 15:07:13.828
+Rolled a 7
+*****Natural! You win.*****
+Game ended at 2018-09-07 15:07:13.829
+Y's balance: 370.
+
+====================================
+
+Bet made at 2018-09-07 15:07:13.829
+Y bets 170
+Plying a new game...
+Dice rolled at 2018-09-07 15:07:13.829
+Rolled a 4
+Dice rolled at 2018-09-07 15:07:13.829
+Rolled a 11
+Dice rolled at 2018-09-07 15:07:13.829
+Rolled a 8
+Dice rolled at 2018-09-07 15:07:13.83
+Rolled a 7
+*****Crap out! You lose.*****
+Game ended at 2018-09-07 15:07:13.83
+Y's balance: 200.
+
+====================================
+
+Bet made at 2018-09-07 15:07:13.83
+Y bets 170
+Plying a new game...
+Dice rolled at 2018-09-07 15:07:13.83
+Rolled a 9
+Dice rolled at 2018-09-07 15:07:13.83
+Rolled a 5
+Dice rolled at 2018-09-07 15:07:13.831
+Rolled a 9
+*****Rolled the point! You win!*****
+Game ended at 2018-09-07 15:07:13.831
+Y's balance: 370.
+
+====================================
+
+Bet made at 2018-09-07 15:07:13.831
+Y bets 170
+Plying a new game...
+Dice rolled at 2018-09-07 15:07:13.831
+Rolled a 5
+Dice rolled at 2018-09-07 15:07:13.832
+Rolled a 5
+*****Rolled the point! You win!*****
+Game ended at 2018-09-07 15:07:13.832
+Y's balance: 540.
+
+====================================
+
+Bet made at 2018-09-07 15:07:13.832
+Y bets 170
+Plying a new game...
+Dice rolled at 2018-09-07 15:07:13.832
+Rolled a 3
+*****Craps! You lose.*****
+Game ended at 2018-09-07 15:07:13.833
+Y's balance: 370.
+
+====================================
+
+Bet made at 2018-09-07 15:07:13.833
+Y bets 170
+Plying a new game...
+Dice rolled at 2018-09-07 15:07:13.833
+Rolled a 5
+Dice rolled at 2018-09-07 15:07:13.833
+Rolled a 7
+Dice rolled at 2018-09-07 15:07:13.833
+Rolled a 8
+Dice rolled at 2018-09-07 15:07:13.834
+Rolled a 2
+Dice rolled at 2018-09-07 15:07:13.834
+Rolled a 5
+*****Rolled the point! You win!*****
+Game ended at 2018-09-07 15:07:13.834
+Y's balance: 540.
+
+====================================
+
+Bet made at 2018-09-07 15:07:13.834
+Y bets 170
+Plying a new game...
+Dice rolled at 2018-09-07 15:07:13.834
+Rolled a 5
+Dice rolled at 2018-09-07 15:07:13.835
+Rolled a 9
+Dice rolled at 2018-09-07 15:07:13.836
+Rolled a 6
+Dice rolled at 2018-09-07 15:07:13.836
+Rolled a 11
+Dice rolled at 2018-09-07 15:07:13.836
+Rolled a 6
+Dice rolled at 2018-09-07 15:07:13.836
+Rolled a 3
+Dice rolled at 2018-09-07 15:07:13.837
+Rolled a 9
+Dice rolled at 2018-09-07 15:07:13.837
+Rolled a 9
+Dice rolled at 2018-09-07 15:07:13.837
+Rolled a 5
+*****Rolled the point! You win!*****
+Game ended at 2018-09-07 15:07:13.837
+Y's balance: 710.
+
+====================================
+
+Bet made at 2018-09-07 15:07:13.837
+Y bets 170
+Plying a new game...
+Dice rolled at 2018-09-07 15:07:13.837
+Rolled a 4
+Dice rolled at 2018-09-07 15:07:13.838
+Rolled a 9
+Dice rolled at 2018-09-07 15:07:13.838
+Rolled a 7
+*****Crap out! You lose.*****
+Game ended at 2018-09-07 15:07:13.838
+Y's balance: 540.
+
+====================================
+
+Bet made at 2018-09-07 15:07:13.838
+Y bets 170
+Plying a new game...
+Dice rolled at 2018-09-07 15:07:13.838
+Rolled a 3
+*****Craps! You lose.*****
+Game ended at 2018-09-07 15:07:13.839
+Y's balance: 370.
+
+====================================
+
+Bet made at 2018-09-07 15:07:13.839
+Y bets 170
+Plying a new game...
+Dice rolled at 2018-09-07 15:07:13.839
+Rolled a 8
+Dice rolled at 2018-09-07 15:07:13.839
+Rolled a 5
+Dice rolled at 2018-09-07 15:07:13.839
+Rolled a 9
+Dice rolled at 2018-09-07 15:07:13.839
+Rolled a 5
+Dice rolled at 2018-09-07 15:07:13.84
+Rolled a 5
+Dice rolled at 2018-09-07 15:07:13.84
+Rolled a 12
+Dice rolled at 2018-09-07 15:07:13.84
+Rolled a 6
+Dice rolled at 2018-09-07 15:07:13.84
+Rolled a 6
+Dice rolled at 2018-09-07 15:07:13.841
+Rolled a 3
+Dice rolled at 2018-09-07 15:07:13.841
+Rolled a 3
+Dice rolled at 2018-09-07 15:07:13.841
+Rolled a 11
+Dice rolled at 2018-09-07 15:07:13.841
+Rolled a 6
+Dice rolled at 2018-09-07 15:07:13.841
+Rolled a 3
+Dice rolled at 2018-09-07 15:07:13.841
+Rolled a 6
+Dice rolled at 2018-09-07 15:07:13.842
+Rolled a 9
+Dice rolled at 2018-09-07 15:07:13.842
+Rolled a 4
+Dice rolled at 2018-09-07 15:07:13.842
+Rolled a 10
+Dice rolled at 2018-09-07 15:07:13.842
+Rolled a 9
+Dice rolled at 2018-09-07 15:07:13.842
+Rolled a 8
+*****Rolled the point! You win!*****
+Game ended at 2018-09-07 15:07:13.842
+Y's balance: 540.
+
+====================================
+
+Bet made at 2018-09-07 15:07:13.843
+Y bets 170
+Plying a new game...
+Dice rolled at 2018-09-07 15:07:13.843
+Rolled a 4
+Dice rolled at 2018-09-07 15:07:13.843
+Rolled a 4
+*****Rolled the point! You win!*****
+Game ended at 2018-09-07 15:07:13.843
+Y's balance: 710.
+
+====================================
+
+Bet made at 2018-09-07 15:07:13.843
+Y bets 170
+Plying a new game...
+Dice rolled at 2018-09-07 15:07:13.844
+Rolled a 10
+Dice rolled at 2018-09-07 15:07:13.844
+Rolled a 4
+Dice rolled at 2018-09-07 15:07:13.844
+Rolled a 5
+Dice rolled at 2018-09-07 15:07:13.844
+Rolled a 5
+Dice rolled at 2018-09-07 15:07:13.844
+Rolled a 7
+*****Crap out! You lose.*****
+Game ended at 2018-09-07 15:07:13.844
+Y's balance: 540.
+
+====================================
+
+Bet made at 2018-09-07 15:07:13.845
+Y bets 170
+Plying a new game...
+Dice rolled at 2018-09-07 15:07:13.845
+Rolled a 2
+*****Craps! You lose.*****
+Game ended at 2018-09-07 15:07:13.845
+Y's balance: 370.
+
+====================================
+
+Bet made at 2018-09-07 15:07:13.845
+Y bets 170
+Plying a new game...
+Dice rolled at 2018-09-07 15:07:13.846
+Rolled a 3
+*****Craps! You lose.*****
+Game ended at 2018-09-07 15:07:13.846
+Y's balance: 200.
+
+====================================
+
+Bet made at 2018-09-07 15:07:13.846
+Y bets 170
+Plying a new game...
+Dice rolled at 2018-09-07 15:07:13.846
+Rolled a 10
+Dice rolled at 2018-09-07 15:07:13.846
+Rolled a 6
+Dice rolled at 2018-09-07 15:07:13.847
+Rolled a 8
+Dice rolled at 2018-09-07 15:07:13.847
+Rolled a 10
+*****Rolled the point! You win!*****
+Game ended at 2018-09-07 15:07:13.847
+Y's balance: 370.
+
+====================================
+
+Bet made at 2018-09-07 15:07:13.847
+Y bets 170
+Plying a new game...
+Dice rolled at 2018-09-07 15:07:13.847
+Rolled a 6
+Dice rolled at 2018-09-07 15:07:13.847
+Rolled a 8
+Dice rolled at 2018-09-07 15:07:13.848
+Rolled a 7
+*****Crap out! You lose.*****
+Game ended at 2018-09-07 15:07:13.848
+Y's balance: 200.
+
+====================================
+
+Bet made at 2018-09-07 15:07:13.848
+Y bets 170
+Plying a new game...
+Dice rolled at 2018-09-07 15:07:13.848
+Rolled a 8
+Dice rolled at 2018-09-07 15:07:13.848
+Rolled a 12
+Dice rolled at 2018-09-07 15:07:13.848
+Rolled a 4
+Dice rolled at 2018-09-07 15:07:13.849
+Rolled a 7
+*****Crap out! You lose.*****
+Game ended at 2018-09-07 15:07:13.849
+Y's balance: 30.
+
+====================================
+
+Bet made at 2018-09-07 15:07:13.849
+Y bets 170
+Plying a new game...
+Dice rolled at 2018-09-07 15:07:13.849
+Rolled a 8
+Dice rolled at 2018-09-07 15:07:13.849
+Rolled a 5
+Dice rolled at 2018-09-07 15:07:13.849
+Rolled a 6
+Dice rolled at 2018-09-07 15:07:13.85
+Rolled a 8
+*****Rolled the point! You win!*****
+Game ended at 2018-09-07 15:07:13.85
+Y's balance: 200.
+
+====================================
+
+Bet made at 2018-09-07 15:07:13.85
+Y bets 170
+Plying a new game...
+Dice rolled at 2018-09-07 15:07:13.85
+Rolled a 6
+Dice rolled at 2018-09-07 15:07:13.85
+Rolled a 5
+Dice rolled at 2018-09-07 15:07:13.85
+Rolled a 6
+*****Rolled the point! You win!*****
+Game ended at 2018-09-07 15:07:13.851
+Y's balance: 370.
+
+====================================
+
+Bet made at 2018-09-07 15:07:13.851
+Y bets 170
+Plying a new game...
+Dice rolled at 2018-09-07 15:07:13.851
+Rolled a 4
+Dice rolled at 2018-09-07 15:07:13.851
+Rolled a 3
+Dice rolled at 2018-09-07 15:07:13.851
+Rolled a 5
+Dice rolled at 2018-09-07 15:07:13.852
+Rolled a 8
+Dice rolled at 2018-09-07 15:07:13.852
+Rolled a 6
+Dice rolled at 2018-09-07 15:07:13.852
+Rolled a 5
+Dice rolled at 2018-09-07 15:07:13.852
+Rolled a 9
+Dice rolled at 2018-09-07 15:07:13.852
+Rolled a 7
+*****Crap out! You lose.*****
+Game ended at 2018-09-07 15:07:13.857
+Y's balance: 200.
+
+====================================
+
+Bet made at 2018-09-07 15:07:13.857
+Y bets 170
+Plying a new game...
+Dice rolled at 2018-09-07 15:07:13.857
+Rolled a 6
+Dice rolled at 2018-09-07 15:07:13.857
+Rolled a 10
+Dice rolled at 2018-09-07 15:07:13.858
+Rolled a 8
+Dice rolled at 2018-09-07 15:07:13.858
+Rolled a 7
+*****Crap out! You lose.*****
+Game ended at 2018-09-07 15:07:13.858
+Y's balance: 30.
+
+====================================
+
+Bet made at 2018-09-07 15:07:13.858
+Y bets 170
+Plying a new game...
+Dice rolled at 2018-09-07 15:07:13.858
+Rolled a 8
+Dice rolled at 2018-09-07 15:07:13.858
+Rolled a 5
+Dice rolled at 2018-09-07 15:07:13.859
+Rolled a 10
+Dice rolled at 2018-09-07 15:07:13.859
+Rolled a 6
+Dice rolled at 2018-09-07 15:07:13.859
+Rolled a 5
+Dice rolled at 2018-09-07 15:07:13.859
+Rolled a 3
+Dice rolled at 2018-09-07 15:07:13.859
+Rolled a 8
+*****Rolled the point! You win!*****
+Game ended at 2018-09-07 15:07:13.859
+Y's balance: 200.
+
+====================================
+
+Bet made at 2018-09-07 15:07:13.859
+Y bets 170
+Plying a new game...
+Dice rolled at 2018-09-07 15:07:13.86
+Rolled a 8
+Dice rolled at 2018-09-07 15:07:13.86
+Rolled a 7
+Dice rolled at 2018-09-07 15:07:13.86
+Rolled a 9
+Dice rolled at 2018-09-07 15:07:13.86
+Rolled a 8
+*****Rolled the point! You win!*****
+Game ended at 2018-09-07 15:07:13.86
+Y's balance: 370.
+
+====================================
+
+Bet made at 2018-09-07 15:07:13.861
+Y bets 170
+Plying a new game...
+Dice rolled at 2018-09-07 15:07:13.861
+Rolled a 7
+*****Natural! You win.*****
+Game ended at 2018-09-07 15:07:13.861
+Y's balance: 540.
+
+====================================
+
+Bet made at 2018-09-07 15:07:13.861
+Y bets 170
+Plying a new game...
+Dice rolled at 2018-09-07 15:07:13.862
+Rolled a 10
+Dice rolled at 2018-09-07 15:07:13.862
+Rolled a 8
+Dice rolled at 2018-09-07 15:07:13.862
+Rolled a 9
+Dice rolled at 2018-09-07 15:07:13.863
+Rolled a 7
+*****Crap out! You lose.*****
+Game ended at 2018-09-07 15:07:13.863
+Y's balance: 370.
+
+====================================
+
+Bet made at 2018-09-07 15:07:13.863
+Y bets 170
+Plying a new game...
+Dice rolled at 2018-09-07 15:07:13.863
+Rolled a 6
+Dice rolled at 2018-09-07 15:07:13.863
+Rolled a 4
+Dice rolled at 2018-09-07 15:07:13.864
+Rolled a 7
+*****Crap out! You lose.*****
+Game ended at 2018-09-07 15:07:13.864
+Y's balance: 200.
+
+====================================
+
+Bet made at 2018-09-07 15:07:13.864
+Y bets 170
+Plying a new game...
+Dice rolled at 2018-09-07 15:07:13.864
+Rolled a 11
+*****Natural! You win.*****
+Game ended at 2018-09-07 15:07:13.864
+Y's balance: 370.
+
+====================================
+
+Bet made at 2018-09-07 15:07:13.864
+Y bets 170
+Plying a new game...
+Dice rolled at 2018-09-07 15:07:13.864
+Rolled a 6
+Dice rolled at 2018-09-07 15:07:13.865
+Rolled a 3
+Dice rolled at 2018-09-07 15:07:13.865
+Rolled a 7
+*****Crap out! You lose.*****
+Game ended at 2018-09-07 15:07:13.865
+Y's balance: 200.
+
+====================================
+
+Bet made at 2018-09-07 15:07:13.865
+Y bets 170
+Plying a new game...
+Dice rolled at 2018-09-07 15:07:13.865
+Rolled a 6
+Dice rolled at 2018-09-07 15:07:13.865
+Rolled a 8
+Dice rolled at 2018-09-07 15:07:13.866
+Rolled a 9
+Dice rolled at 2018-09-07 15:07:13.866
+Rolled a 6
+*****Rolled the point! You win!*****
+Game ended at 2018-09-07 15:07:13.866
+Y's balance: 370.
+
+====================================
+
+Bet made at 2018-09-07 15:07:13.866
+Y bets 170
+Plying a new game...
+Dice rolled at 2018-09-07 15:07:13.866
+Rolled a 7
+*****Natural! You win.*****
+Game ended at 2018-09-07 15:07:13.866
+Y's balance: 540.
+
+====================================
+
+Bet made at 2018-09-07 15:07:13.867
+Y bets 170
+Plying a new game...
+Dice rolled at 2018-09-07 15:07:13.867
+Rolled a 4
+Dice rolled at 2018-09-07 15:07:13.867
+Rolled a 8
+Dice rolled at 2018-09-07 15:07:13.867
+Rolled a 5
+Dice rolled at 2018-09-07 15:07:13.867
+Rolled a 6
+Dice rolled at 2018-09-07 15:07:13.867
+Rolled a 8
+Dice rolled at 2018-09-07 15:07:13.868
+Rolled a 7
+*****Crap out! You lose.*****
+Game ended at 2018-09-07 15:07:13.868
+Y's balance: 370.
+
+====================================
+
+Bet made at 2018-09-07 15:07:13.868
+Y bets 170
+Plying a new game...
+Dice rolled at 2018-09-07 15:07:13.868
+Rolled a 7
+*****Natural! You win.*****
+Game ended at 2018-09-07 15:07:13.868
+Y's balance: 540.
+
+====================================
+
+Bet made at 2018-09-07 15:07:13.868
+Y bets 170
+Plying a new game...
+Dice rolled at 2018-09-07 15:07:13.869
+Rolled a 8
+Dice rolled at 2018-09-07 15:07:13.869
+Rolled a 6
+Dice rolled at 2018-09-07 15:07:13.869
+Rolled a 11
+Dice rolled at 2018-09-07 15:07:13.869
+Rolled a 8
+*****Rolled the point! You win!*****
+Game ended at 2018-09-07 15:07:13.869
+Y's balance: 710.
+
+====================================
+
+Bet made at 2018-09-07 15:07:13.869
+Y bets 170
+Plying a new game...
+Dice rolled at 2018-09-07 15:07:13.869
+Rolled a 12
+*****Craps! You lose.*****
+Game ended at 2018-09-07 15:07:13.869
+Y's balance: 540.
+
+====================================
+
+Bet made at 2018-09-07 15:07:13.87
+Y bets 170
+Plying a new game...
+Dice rolled at 2018-09-07 15:07:13.87
+Rolled a 12
+*****Craps! You lose.*****
+Game ended at 2018-09-07 15:07:13.87
+Y's balance: 370.
+
+====================================
+
+Bet made at 2018-09-07 15:07:13.87
+Y bets 170
+Plying a new game...
+Dice rolled at 2018-09-07 15:07:13.87
+Rolled a 7
+*****Natural! You win.*****
+Game ended at 2018-09-07 15:07:13.87
+Y's balance: 540.
+
+====================================
+
+Bet made at 2018-09-07 15:07:13.87
+Y bets 170
+Plying a new game...
+Dice rolled at 2018-09-07 15:07:13.87
+Rolled a 4
+Dice rolled at 2018-09-07 15:07:13.87
+Rolled a 9
+Dice rolled at 2018-09-07 15:07:13.871
+Rolled a 5
+Dice rolled at 2018-09-07 15:07:13.871
+Rolled a 10
+Dice rolled at 2018-09-07 15:07:13.871
+Rolled a 6
+Dice rolled at 2018-09-07 15:07:13.871
+Rolled a 9
+Dice rolled at 2018-09-07 15:07:13.871
+Rolled a 4
+*****Rolled the point! You win!*****
+Game ended at 2018-09-07 15:07:13.871
+Y's balance: 710.
+
+====================================
+
+Bet made at 2018-09-07 15:07:13.871
+Y bets 170
+Plying a new game...
+Dice rolled at 2018-09-07 15:07:13.871
+Rolled a 3
+*****Craps! You lose.*****
+Game ended at 2018-09-07 15:07:13.871
+Y's balance: 540.
+
+====================================
+
+Bet made at 2018-09-07 15:07:13.872
+Y bets 170
+Plying a new game...
+Dice rolled at 2018-09-07 15:07:13.872
+Rolled a 6
+Dice rolled at 2018-09-07 15:07:13.872
+Rolled a 2
+Dice rolled at 2018-09-07 15:07:13.873
+Rolled a 9
+Dice rolled at 2018-09-07 15:07:13.873
+Rolled a 5
+Dice rolled at 2018-09-07 15:07:13.873
+Rolled a 3
+Dice rolled at 2018-09-07 15:07:13.874
+Rolled a 9
+Dice rolled at 2018-09-07 15:07:13.874
+Rolled a 6
+*****Rolled the point! You win!*****
+Game ended at 2018-09-07 15:07:13.874
+Y's balance: 710.
+
+====================================
+
+Bet made at 2018-09-07 15:07:13.875
+Y bets 170
+Plying a new game...
+Dice rolled at 2018-09-07 15:07:13.875
+Rolled a 6
+Dice rolled at 2018-09-07 15:07:13.875
+Rolled a 2
+Dice rolled at 2018-09-07 15:07:13.876
+Rolled a 11
+Dice rolled at 2018-09-07 15:07:13.876
+Rolled a 11
+Dice rolled at 2018-09-07 15:07:13.876
+Rolled a 12
+Dice rolled at 2018-09-07 15:07:13.877
+Rolled a 9
+Dice rolled at 2018-09-07 15:07:13.877
+Rolled a 8
+Dice rolled at 2018-09-07 15:07:13.877
+Rolled a 8
+Dice rolled at 2018-09-07 15:07:13.877
+Rolled a 4
+Dice rolled at 2018-09-07 15:07:13.877
+Rolled a 5
+Dice rolled at 2018-09-07 15:07:13.877
+Rolled a 9
+Dice rolled at 2018-09-07 15:07:13.878
+Rolled a 8
+Dice rolled at 2018-09-07 15:07:13.878
+Rolled a 4
+Dice rolled at 2018-09-07 15:07:13.878
+Rolled a 8
+Dice rolled at 2018-09-07 15:07:13.879
+Rolled a 8
+Dice rolled at 2018-09-07 15:07:13.879
+Rolled a 5
+Dice rolled at 2018-09-07 15:07:13.879
+Rolled a 10
+Dice rolled at 2018-09-07 15:07:13.879
+Rolled a 5
+Dice rolled at 2018-09-07 15:07:13.879
+Rolled a 9
+Dice rolled at 2018-09-07 15:07:13.881
+Rolled a 8
+Dice rolled at 2018-09-07 15:07:13.881
+Rolled a 7
+*****Crap out! You lose.*****
+Game ended at 2018-09-07 15:07:13.881
+Y's balance: 540.
+
+====================================
+
+Bet made at 2018-09-07 15:07:13.881
+Y bets 170
+Plying a new game...
+Dice rolled at 2018-09-07 15:07:13.882
+Rolled a 5
+Dice rolled at 2018-09-07 15:07:13.882
+Rolled a 7
+Dice rolled at 2018-09-07 15:07:13.882
+Rolled a 8
+Dice rolled at 2018-09-07 15:07:13.882
+Rolled a 6
+Dice rolled at 2018-09-07 15:07:13.882
+Rolled a 8
+Dice rolled at 2018-09-07 15:07:13.882
+Rolled a 10
+Dice rolled at 2018-09-07 15:07:13.883
+Rolled a 10
+Dice rolled at 2018-09-07 15:07:13.883
+Rolled a 4
+Dice rolled at 2018-09-07 15:07:13.883
+Rolled a 5
+*****Rolled the point! You win!*****
+Game ended at 2018-09-07 15:07:13.883
+Y's balance: 710.
+
+====================================
+
+Bet made at 2018-09-07 15:07:13.883
+Y bets 170
+Plying a new game...
+Dice rolled at 2018-09-07 15:07:13.884
+Rolled a 7
+*****Natural! You win.*****
+Game ended at 2018-09-07 15:07:13.884
+Y's balance: 880.
+
+====================================
+
+Bet made at 2018-09-07 15:07:13.884
+Y bets 170
+Plying a new game...
+Dice rolled at 2018-09-07 15:07:13.884
+Rolled a 6
+Dice rolled at 2018-09-07 15:07:13.884
+Rolled a 8
+Dice rolled at 2018-09-07 15:07:13.884
+Rolled a 5
+Dice rolled at 2018-09-07 15:07:13.885
+Rolled a 3
+Dice rolled at 2018-09-07 15:07:13.885
+Rolled a 5
+Dice rolled at 2018-09-07 15:07:13.885
+Rolled a 10
+Dice rolled at 2018-09-07 15:07:13.885
+Rolled a 11
+Dice rolled at 2018-09-07 15:07:13.885
+Rolled a 11
+Dice rolled at 2018-09-07 15:07:13.885
+Rolled a 5
+Dice rolled at 2018-09-07 15:07:13.885
+Rolled a 5
+Dice rolled at 2018-09-07 15:07:13.886
+Rolled a 11
+Dice rolled at 2018-09-07 15:07:13.886
+Rolled a 2
+Dice rolled at 2018-09-07 15:07:13.886
+Rolled a 8
+Dice rolled at 2018-09-07 15:07:13.886
+Rolled a 6
+*****Rolled the point! You win!*****
+Game ended at 2018-09-07 15:07:13.886
+Y's balance: 1050.
+
+====================================
+
+Bet made at 2018-09-07 15:07:13.886
+Y bets 170
+Plying a new game...
+Dice rolled at 2018-09-07 15:07:13.886
+Rolled a 7
+*****Natural! You win.*****
+Game ended at 2018-09-07 15:07:13.887
+Y's balance: 1220.
+
+====================================
+
+Bet made at 2018-09-07 15:07:13.887
+Y bets 170
+Plying a new game...
+Dice rolled at 2018-09-07 15:07:13.887
+Rolled a 3
+*****Craps! You lose.*****
+Game ended at 2018-09-07 15:07:13.887
+Y's balance: 1050.
+
+====================================
+
+Bet made at 2018-09-07 15:07:13.887
+Y bets 170
+Plying a new game...
+Dice rolled at 2018-09-07 15:07:13.887
+Rolled a 3
+*****Craps! You lose.*****
+Game ended at 2018-09-07 15:07:13.887
+Y's balance: 880.
+
+====================================
+
+Bet made at 2018-09-07 15:07:13.887
+Y bets 170
+Plying a new game...
+Dice rolled at 2018-09-07 15:07:13.888
+Rolled a 7
+*****Natural! You win.*****
+Game ended at 2018-09-07 15:07:13.888
+Y's balance: 1050.
+
+====================================
+
+Bet made at 2018-09-07 15:07:13.888
+Y bets 170
+Plying a new game...
+Dice rolled at 2018-09-07 15:07:13.888
+Rolled a 6
+Dice rolled at 2018-09-07 15:07:13.888
+Rolled a 4
+Dice rolled at 2018-09-07 15:07:13.888
+Rolled a 10
+Dice rolled at 2018-09-07 15:07:13.888
+Rolled a 7
+*****Crap out! You lose.*****
+Game ended at 2018-09-07 15:07:13.888
+Y's balance: 880.
+
+====================================
+
+Bet made at 2018-09-07 15:07:13.888
+Y bets 170
+Plying a new game...
+Dice rolled at 2018-09-07 15:07:13.888
+Rolled a 4
+Dice rolled at 2018-09-07 15:07:13.889
+Rolled a 3
+Dice rolled at 2018-09-07 15:07:13.889
+Rolled a 8
+Dice rolled at 2018-09-07 15:07:13.889
+Rolled a 6
+Dice rolled at 2018-09-07 15:07:13.889
+Rolled a 11
+Dice rolled at 2018-09-07 15:07:13.889
+Rolled a 4
+*****Rolled the point! You win!*****
+Game ended at 2018-09-07 15:07:13.889
+Y's balance: 1050.
+
+====================================
+
+Bet made at 2018-09-07 15:07:13.889
+Y bets 170
+Plying a new game...
+Dice rolled at 2018-09-07 15:07:13.889
+Rolled a 6
+Dice rolled at 2018-09-07 15:07:13.889
+Rolled a 8
+Dice rolled at 2018-09-07 15:07:13.889
+Rolled a 9
+Dice rolled at 2018-09-07 15:07:13.889
+Rolled a 7
+*****Crap out! You lose.*****
+Game ended at 2018-09-07 15:07:13.889
+Y's balance: 880.
+
+====================================
+
+Bet made at 2018-09-07 15:07:13.89
+Y bets 170
+Plying a new game...
+Dice rolled at 2018-09-07 15:07:13.89
+Rolled a 7
+*****Natural! You win.*****
+Game ended at 2018-09-07 15:07:13.89
+Y's balance: 1050.
+
+====================================
+
+Bet made at 2018-09-07 15:07:13.89
+Y bets 170
+Plying a new game...
+Dice rolled at 2018-09-07 15:07:13.89
+Rolled a 8
+Dice rolled at 2018-09-07 15:07:13.89
+Rolled a 6
+Dice rolled at 2018-09-07 15:07:13.89
+Rolled a 8
+*****Rolled the point! You win!*****
+Game ended at 2018-09-07 15:07:13.89
+Y's balance: 1220.
+
+====================================
+
+Bet made at 2018-09-07 15:07:13.89
+Y bets 170
+Plying a new game...
+Dice rolled at 2018-09-07 15:07:13.89
+Rolled a 10
+Dice rolled at 2018-09-07 15:07:13.89
+Rolled a 7
+Dice rolled at 2018-09-07 15:07:13.89
+Rolled a 8
+Dice rolled at 2018-09-07 15:07:13.891
+Rolled a 9
+Dice rolled at 2018-09-07 15:07:13.891
+Rolled a 9
+Dice rolled at 2018-09-07 15:07:13.891
+Rolled a 10
+*****Rolled the point! You win!*****
+Game ended at 2018-09-07 15:07:13.891
+Y's balance: 1390.
+
+====================================
+
+Bet made at 2018-09-07 15:07:13.891
+Y bets 170
+Plying a new game...
+Dice rolled at 2018-09-07 15:07:13.891
+Rolled a 6
+Dice rolled at 2018-09-07 15:07:13.892
+Rolled a 8
+Dice rolled at 2018-09-07 15:07:13.892
+Rolled a 5
+Dice rolled at 2018-09-07 15:07:13.892
+Rolled a 11
+Dice rolled at 2018-09-07 15:07:13.892
+Rolled a 4
+Dice rolled at 2018-09-07 15:07:13.892
+Rolled a 5
+Dice rolled at 2018-09-07 15:07:13.892
+Rolled a 5
+Dice rolled at 2018-09-07 15:07:13.892
+Rolled a 7
+*****Crap out! You lose.*****
+Game ended at 2018-09-07 15:07:13.892
+Y's balance: 1220.
+
+====================================
+
+Bet made at 2018-09-07 15:07:13.893
+Y bets 170
+Plying a new game...
+Dice rolled at 2018-09-07 15:07:13.893
+Rolled a 11
+*****Natural! You win.*****
+Game ended at 2018-09-07 15:07:13.893
+Y's balance: 1390.
+
+====================================
+
+Bet made at 2018-09-07 15:07:13.893
+Y bets 170
+Plying a new game...
+Dice rolled at 2018-09-07 15:07:13.893
+Rolled a 10
+Dice rolled at 2018-09-07 15:07:13.893
+Rolled a 11
+Dice rolled at 2018-09-07 15:07:13.893
+Rolled a 6
+Dice rolled at 2018-09-07 15:07:13.893
+Rolled a 7
+*****Crap out! You lose.*****
+Game ended at 2018-09-07 15:07:13.893
+Y's balance: 1220.
+
+====================================
+
+Bet made at 2018-09-07 15:07:13.893
+Y bets 170
+Plying a new game...
+Dice rolled at 2018-09-07 15:07:13.893
+Rolled a 11
+*****Natural! You win.*****
+Game ended at 2018-09-07 15:07:13.894
+Y's balance: 1390.
+
+====================================
+
+Bet made at 2018-09-07 15:07:13.894
+Y bets 170
+Plying a new game...
+Dice rolled at 2018-09-07 15:07:13.894
+Rolled a 9
+Dice rolled at 2018-09-07 15:07:13.894
+Rolled a 10
+Dice rolled at 2018-09-07 15:07:13.894
+Rolled a 3
+Dice rolled at 2018-09-07 15:07:13.894
+Rolled a 9
+*****Rolled the point! You win!*****
+Game ended at 2018-09-07 15:07:13.894
+Y's balance: 1560.
+
+====================================
+
+Bet made at 2018-09-07 15:07:13.894
+Y bets 170
+Plying a new game...
+Dice rolled at 2018-09-07 15:07:13.894
+Rolled a 10
+Dice rolled at 2018-09-07 15:07:13.894
+Rolled a 12
+Dice rolled at 2018-09-07 15:07:13.895
+Rolled a 3
+Dice rolled at 2018-09-07 15:07:13.895
+Rolled a 8
+Dice rolled at 2018-09-07 15:07:13.895
+Rolled a 7
+*****Crap out! You lose.*****
+Game ended at 2018-09-07 15:07:13.895
+Y's balance: 1390.
+
+====================================
+
+Bet made at 2018-09-07 15:07:13.895
+Y bets 170
+Plying a new game...
+Dice rolled at 2018-09-07 15:07:13.895
+Rolled a 3
+*****Craps! You lose.*****
+Game ended at 2018-09-07 15:07:13.895
+Y's balance: 1220.
+
+====================================
+
+Bet made at 2018-09-07 15:07:13.897
+Y bets 170
+Plying a new game...
+Dice rolled at 2018-09-07 15:07:13.897
+Rolled a 9
+Dice rolled at 2018-09-07 15:07:13.897
+Rolled a 8
+Dice rolled at 2018-09-07 15:07:13.897
+Rolled a 5
+Dice rolled at 2018-09-07 15:07:13.897
+Rolled a 6
+Dice rolled at 2018-09-07 15:07:13.897
+Rolled a 5
+Dice rolled at 2018-09-07 15:07:13.897
+Rolled a 4
+Dice rolled at 2018-09-07 15:07:13.897
+Rolled a 9
+*****Rolled the point! You win!*****
+Game ended at 2018-09-07 15:07:13.897
+Y's balance: 1390.
+
+====================================
+
+Bet made at 2018-09-07 15:07:13.898
+Y bets 170
+Plying a new game...
+Dice rolled at 2018-09-07 15:07:13.898
+Rolled a 8
+Dice rolled at 2018-09-07 15:07:13.898
+Rolled a 8
+*****Rolled the point! You win!*****
+Game ended at 2018-09-07 15:07:13.898
+Y's balance: 1560.
+
+====================================
+
+Bet made at 2018-09-07 15:07:13.898
+Y bets 170
+Plying a new game...
+Dice rolled at 2018-09-07 15:07:13.898
+Rolled a 9
+Dice rolled at 2018-09-07 15:07:13.898
+Rolled a 7
+Dice rolled at 2018-09-07 15:07:13.898
+Rolled a 4
+Dice rolled at 2018-09-07 15:07:13.898
+Rolled a 4
+Dice rolled at 2018-09-07 15:07:13.898
+Rolled a 5
+Dice rolled at 2018-09-07 15:07:13.898
+Rolled a 12
+Dice rolled at 2018-09-07 15:07:13.899
+Rolled a 6
+Dice rolled at 2018-09-07 15:07:13.899
+Rolled a 8
+Dice rolled at 2018-09-07 15:07:13.899
+Rolled a 9
+*****Rolled the point! You win!*****
+Game ended at 2018-09-07 15:07:13.899
+Y's balance: 1730.
+
+====================================
+
+Bet made at 2018-09-07 15:07:13.899
+Y bets 170
+Plying a new game...
+Dice rolled at 2018-09-07 15:07:13.899
+Rolled a 3
+*****Craps! You lose.*****
+Game ended at 2018-09-07 15:07:13.899
+Y's balance: 1560.
+
+====================================
+
+Bet made at 2018-09-07 15:07:13.899
+Y bets 170
+Plying a new game...
+Dice rolled at 2018-09-07 15:07:13.9
+Rolled a 9
+Dice rolled at 2018-09-07 15:07:13.9
+Rolled a 8
+Dice rolled at 2018-09-07 15:07:13.9
+Rolled a 5
+Dice rolled at 2018-09-07 15:07:13.9
+Rolled a 6
+Dice rolled at 2018-09-07 15:07:13.9
+Rolled a 9
+*****Rolled the point! You win!*****
+Game ended at 2018-09-07 15:07:13.9
+Y's balance: 1730.
+
+====================================
+
+Bet made at 2018-09-07 15:07:13.9
+Y bets 170
+Plying a new game...
+Dice rolled at 2018-09-07 15:07:13.9
+Rolled a 6
+Dice rolled at 2018-09-07 15:07:13.9
+Rolled a 10
+Dice rolled at 2018-09-07 15:07:13.9
+Rolled a 5
+Dice rolled at 2018-09-07 15:07:13.901
+Rolled a 7
+*****Crap out! You lose.*****
+Game ended at 2018-09-07 15:07:13.901
+Y's balance: 1560.
+
+====================================
+
+Bet made at 2018-09-07 15:07:13.901
+Y bets 170
+Plying a new game...
+Dice rolled at 2018-09-07 15:07:13.901
+Rolled a 8
+Dice rolled at 2018-09-07 15:07:13.901
+Rolled a 3
+Dice rolled at 2018-09-07 15:07:13.901
+Rolled a 6
+Dice rolled at 2018-09-07 15:07:13.901
+Rolled a 6
+Dice rolled at 2018-09-07 15:07:13.901
+Rolled a 7
+*****Crap out! You lose.*****
+Game ended at 2018-09-07 15:07:13.901
+Y's balance: 1390.
+
+====================================
+
+Bet made at 2018-09-07 15:07:13.901
+Y bets 170
+Plying a new game...
+Dice rolled at 2018-09-07 15:07:13.901
+Rolled a 8
+Dice rolled at 2018-09-07 15:07:13.902
+Rolled a 7
+Dice rolled at 2018-09-07 15:07:13.902
+Rolled a 10
+Dice rolled at 2018-09-07 15:07:13.902
+Rolled a 7
+*****Crap out! You lose.*****
+Game ended at 2018-09-07 15:07:13.902
+Y's balance: 1220.
+
+====================================
+
+Bet made at 2018-09-07 15:07:13.902
+Y bets 170
+Plying a new game...
+Dice rolled at 2018-09-07 15:07:13.902
+Rolled a 6
+Dice rolled at 2018-09-07 15:07:13.902
+Rolled a 12
+Dice rolled at 2018-09-07 15:07:13.902
+Rolled a 6
+*****Rolled the point! You win!*****
+Game ended at 2018-09-07 15:07:13.902
+Y's balance: 1390.
+
+====================================
+
+Bet made at 2018-09-07 15:07:13.903
+Y bets 170
+Plying a new game...
+Dice rolled at 2018-09-07 15:07:13.903
+Rolled a 8
+Dice rolled at 2018-09-07 15:07:13.903
+Rolled a 9
+Dice rolled at 2018-09-07 15:07:13.903
+Rolled a 11
+Dice rolled at 2018-09-07 15:07:13.903
+Rolled a 8
+*****Rolled the point! You win!*****
+Game ended at 2018-09-07 15:07:13.903
+Y's balance: 1560.
+
+====================================
+
+Bet made at 2018-09-07 15:07:13.903
+Y bets 170
+Plying a new game...
+Dice rolled at 2018-09-07 15:07:13.903
+Rolled a 10
+Dice rolled at 2018-09-07 15:07:13.903
+Rolled a 9
+Dice rolled at 2018-09-07 15:07:13.903
+Rolled a 7
+*****Crap out! You lose.*****
+Game ended at 2018-09-07 15:07:13.903
+Y's balance: 1390.
+
+====================================
+
+Bet made at 2018-09-07 15:07:13.904
+Y bets 170
+Plying a new game...
+Dice rolled at 2018-09-07 15:07:13.904
+Rolled a 8
+Dice rolled at 2018-09-07 15:07:13.904
+Rolled a 8
+*****Rolled the point! You win!*****
+Game ended at 2018-09-07 15:07:13.904
+Y's balance: 1560.
+
+====================================
+
+Bet made at 2018-09-07 15:07:13.904
+Y bets 170
+Plying a new game...
+Dice rolled at 2018-09-07 15:07:13.904
+Rolled a 2
+*****Craps! You lose.*****
+Game ended at 2018-09-07 15:07:13.904
+Y's balance: 1390.
+
+====================================
+
+Bet made at 2018-09-07 15:07:13.904
+Y bets 170
+Plying a new game...
+Dice rolled at 2018-09-07 15:07:13.904
+Rolled a 5
+Dice rolled at 2018-09-07 15:07:13.904
+Rolled a 4
+Dice rolled at 2018-09-07 15:07:13.904
+Rolled a 12
+Dice rolled at 2018-09-07 15:07:13.905
+Rolled a 8
+Dice rolled at 2018-09-07 15:07:13.905
+Rolled a 8
+Dice rolled at 2018-09-07 15:07:13.905
+Rolled a 4
+Dice rolled at 2018-09-07 15:07:13.905
+Rolled a 3
+Dice rolled at 2018-09-07 15:07:13.905
+Rolled a 5
+*****Rolled the point! You win!*****
+Game ended at 2018-09-07 15:07:13.905
+Y's balance: 1560.
+
+====================================
+
+Bet made at 2018-09-07 15:07:13.905
+Y bets 170
+Plying a new game...
+Dice rolled at 2018-09-07 15:07:13.905
+Rolled a 4
+Dice rolled at 2018-09-07 15:07:13.905
+Rolled a 4
+*****Rolled the point! You win!*****
+Game ended at 2018-09-07 15:07:13.905
+Y's balance: 1730.
+
+====================================
+
+Bet made at 2018-09-07 15:07:13.905
+Y bets 170
+Plying a new game...
+Dice rolled at 2018-09-07 15:07:13.905
+Rolled a 11
+*****Natural! You win.*****
+Game ended at 2018-09-07 15:07:13.906
+Y's balance: 1900.
+
+====================================
+
+Bet made at 2018-09-07 15:07:13.906
+Y bets 170
+Plying a new game...
+Dice rolled at 2018-09-07 15:07:13.906
+Rolled a 8
+Dice rolled at 2018-09-07 15:07:13.906
+Rolled a 6
+Dice rolled at 2018-09-07 15:07:13.906
+Rolled a 9
+Dice rolled at 2018-09-07 15:07:13.906
+Rolled a 4
+Dice rolled at 2018-09-07 15:07:13.906
+Rolled a 9
+Dice rolled at 2018-09-07 15:07:13.906
+Rolled a 6
+Dice rolled at 2018-09-07 15:07:13.906
+Rolled a 4
+Dice rolled at 2018-09-07 15:07:13.906
+Rolled a 3
+Dice rolled at 2018-09-07 15:07:13.907
+Rolled a 5
+Dice rolled at 2018-09-07 15:07:13.907
+Rolled a 3
+Dice rolled at 2018-09-07 15:07:13.907
+Rolled a 4
+Dice rolled at 2018-09-07 15:07:13.907
+Rolled a 7
+*****Crap out! You lose.*****
+Game ended at 2018-09-07 15:07:13.907
+Y's balance: 1730.
+
+====================================
+
+Bet made at 2018-09-07 15:07:13.907
+Y bets 170
+Plying a new game...
+Dice rolled at 2018-09-07 15:07:13.907
+Rolled a 8
+Dice rolled at 2018-09-07 15:07:13.907
+Rolled a 9
+Dice rolled at 2018-09-07 15:07:13.907
+Rolled a 3
+Dice rolled at 2018-09-07 15:07:13.907
+Rolled a 5
+Dice rolled at 2018-09-07 15:07:13.907
+Rolled a 10
+Dice rolled at 2018-09-07 15:07:13.908
+Rolled a 5
+Dice rolled at 2018-09-07 15:07:13.908
+Rolled a 8
+*****Rolled the point! You win!*****
+Game ended at 2018-09-07 15:07:13.908
+Y's balance: 1900.
+
+====================================
+
+Bet made at 2018-09-07 15:07:13.908
+Y bets 170
+Plying a new game...
+Dice rolled at 2018-09-07 15:07:13.908
+Rolled a 7
+*****Natural! You win.*****
+Game ended at 2018-09-07 15:07:13.908
+Y's balance: 2070.
+
+====================================
+
+Bet made at 2018-09-07 15:07:13.908
+Y bets 170
+Plying a new game...
+Dice rolled at 2018-09-07 15:07:13.909
+Rolled a 2
+*****Craps! You lose.*****
+Game ended at 2018-09-07 15:07:13.91
+Y's balance: 1900.
+
+====================================
+
+Bet made at 2018-09-07 15:07:13.91
+Y bets 170
+Plying a new game...
+Dice rolled at 2018-09-07 15:07:13.91
+Rolled a 7
+*****Natural! You win.*****
+Game ended at 2018-09-07 15:07:13.91
+Y's balance: 2070.
+
+====================================
+
+Bet made at 2018-09-07 15:07:13.91
+Y bets 170
+Plying a new game...
+Dice rolled at 2018-09-07 15:07:13.91
+Rolled a 6
+Dice rolled at 2018-09-07 15:07:13.91
+Rolled a 7
+Dice rolled at 2018-09-07 15:07:13.91
+Rolled a 7
+*****Crap out! You lose.*****
+Game ended at 2018-09-07 15:07:13.91
+Y's balance: 1900.
+
+====================================
+
+Bet made at 2018-09-07 15:07:13.91
+Y bets 170
+Plying a new game...
+Dice rolled at 2018-09-07 15:07:13.911
+Rolled a 9
+Dice rolled at 2018-09-07 15:07:13.911
+Rolled a 4
+Dice rolled at 2018-09-07 15:07:13.911
+Rolled a 4
+Dice rolled at 2018-09-07 15:07:13.911
+Rolled a 3
+Dice rolled at 2018-09-07 15:07:13.911
+Rolled a 5
+Dice rolled at 2018-09-07 15:07:13.911
+Rolled a 7
+*****Crap out! You lose.*****
+Game ended at 2018-09-07 15:07:13.911
+Y's balance: 1730.
+
+====================================
+
+Bet made at 2018-09-07 15:07:13.911
+Y bets 170
+Plying a new game...
+Dice rolled at 2018-09-07 15:07:13.911
+Rolled a 2
+*****Craps! You lose.*****
+Game ended at 2018-09-07 15:07:13.911
+Y's balance: 1560.
+
+====================================
+
+Bet made at 2018-09-07 15:07:13.912
+Y bets 170
+Plying a new game...
+Dice rolled at 2018-09-07 15:07:13.912
+Rolled a 5
+Dice rolled at 2018-09-07 15:07:13.912
+Rolled a 10
+Dice rolled at 2018-09-07 15:07:13.912
+Rolled a 6
+Dice rolled at 2018-09-07 15:07:13.912
+Rolled a 5
+*****Rolled the point! You win!*****
+Game ended at 2018-09-07 15:07:13.912
+Y's balance: 1730.
+
+====================================
+
+Bet made at 2018-09-07 15:07:13.912
+Y bets 170
+Plying a new game...
+Dice rolled at 2018-09-07 15:07:13.912
+Rolled a 8
+Dice rolled at 2018-09-07 15:07:13.912
+Rolled a 5
+Dice rolled at 2018-09-07 15:07:13.912
+Rolled a 10
+Dice rolled at 2018-09-07 15:07:13.913
+Rolled a 8
+*****Rolled the point! You win!*****
+Game ended at 2018-09-07 15:07:13.913
+Y's balance: 1900.
+
+====================================
+
+Bet made at 2018-09-07 15:07:13.913
+Y bets 170
+Plying a new game...
+Dice rolled at 2018-09-07 15:07:13.913
+Rolled a 8
+Dice rolled at 2018-09-07 15:07:13.913
+Rolled a 9
+Dice rolled at 2018-09-07 15:07:13.913
+Rolled a 10
+Dice rolled at 2018-09-07 15:07:13.913
+Rolled a 6
+Dice rolled at 2018-09-07 15:07:13.913
+Rolled a 10
+Dice rolled at 2018-09-07 15:07:13.913
+Rolled a 8
+*****Rolled the point! You win!*****
+Game ended at 2018-09-07 15:07:13.913
+Y's balance: 2070.
+
+====================================
+
+Bet made at 2018-09-07 15:07:13.914
+Y bets 170
+Plying a new game...
+Dice rolled at 2018-09-07 15:07:13.914
+Rolled a 9
+Dice rolled at 2018-09-07 15:07:13.914
+Rolled a 6
+Dice rolled at 2018-09-07 15:07:13.914
+Rolled a 8
+Dice rolled at 2018-09-07 15:07:13.914
+Rolled a 5
+Dice rolled at 2018-09-07 15:07:13.914
+Rolled a 9
+*****Rolled the point! You win!*****
+Game ended at 2018-09-07 15:07:13.914
+Y's balance: 2240.
+
+====================================
+
+Bet made at 2018-09-07 15:07:13.914
+Y bets 170
+Plying a new game...
+Dice rolled at 2018-09-07 15:07:13.914
+Rolled a 9
+Dice rolled at 2018-09-07 15:07:13.914
+Rolled a 5
+Dice rolled at 2018-09-07 15:07:13.914
+Rolled a 4
+Dice rolled at 2018-09-07 15:07:13.914
+Rolled a 12
+Dice rolled at 2018-09-07 15:07:13.915
+Rolled a 5
+Dice rolled at 2018-09-07 15:07:13.915
+Rolled a 4
+Dice rolled at 2018-09-07 15:07:13.915
+Rolled a 3
+Dice rolled at 2018-09-07 15:07:13.915
+Rolled a 4
+Dice rolled at 2018-09-07 15:07:13.915
+Rolled a 7
+*****Crap out! You lose.*****
+Game ended at 2018-09-07 15:07:13.915
+Y's balance: 2070.
+
+====================================
+
+Bet made at 2018-09-07 15:07:13.915
+Y bets 170
+Plying a new game...
+Dice rolled at 2018-09-07 15:07:13.915
+Rolled a 7
+*****Natural! You win.*****
+Game ended at 2018-09-07 15:07:13.915
+Y's balance: 2240.
+
+====================================
+
+Bet made at 2018-09-07 15:07:13.915
+Y bets 170
+Plying a new game...
+Dice rolled at 2018-09-07 15:07:13.915
+Rolled a 11
+*****Natural! You win.*****
+Game ended at 2018-09-07 15:07:13.915
+Y's balance: 2410.
+
+====================================
+
+Bet made at 2018-09-07 15:07:13.915
+Y bets 170
+Plying a new game...
+Dice rolled at 2018-09-07 15:07:13.915
+Rolled a 9
+Dice rolled at 2018-09-07 15:07:13.916
+Rolled a 5
+Dice rolled at 2018-09-07 15:07:13.916
+Rolled a 8
+Dice rolled at 2018-09-07 15:07:13.916
+Rolled a 10
+Dice rolled at 2018-09-07 15:07:13.916
+Rolled a 3
+Dice rolled at 2018-09-07 15:07:13.916
+Rolled a 6
+Dice rolled at 2018-09-07 15:07:13.916
+Rolled a 6
+Dice rolled at 2018-09-07 15:07:13.916
+Rolled a 6
+Dice rolled at 2018-09-07 15:07:13.916
+Rolled a 7
+*****Crap out! You lose.*****
+Game ended at 2018-09-07 15:07:13.916
+Y's balance: 2240.
+
+====================================
+
+Bet made at 2018-09-07 15:07:13.916
+Y bets 170
+Plying a new game...
+Dice rolled at 2018-09-07 15:07:13.916
+Rolled a 7
+*****Natural! You win.*****
+Game ended at 2018-09-07 15:07:13.916
+Y's balance: 2410.
+
+====================================
+
+Bet made at 2018-09-07 15:07:13.916
+Y bets 170
+Plying a new game...
+Dice rolled at 2018-09-07 15:07:13.917
+Rolled a 8
+Dice rolled at 2018-09-07 15:07:13.917
+Rolled a 7
+Dice rolled at 2018-09-07 15:07:13.917
+Rolled a 11
+Dice rolled at 2018-09-07 15:07:13.917
+Rolled a 7
+*****Crap out! You lose.*****
+Game ended at 2018-09-07 15:07:13.917
+Y's balance: 2240.
+
+====================================
+
+Bet made at 2018-09-07 15:07:13.917
+Y bets 170
+Plying a new game...
+Dice rolled at 2018-09-07 15:07:13.917
+Rolled a 9
+Dice rolled at 2018-09-07 15:07:13.917
+Rolled a 8
+Dice rolled at 2018-09-07 15:07:13.917
+Rolled a 8
+Dice rolled at 2018-09-07 15:07:13.917
+Rolled a 8
+Dice rolled at 2018-09-07 15:07:13.917
+Rolled a 7
+*****Crap out! You lose.*****
+Game ended at 2018-09-07 15:07:13.917
+Y's balance: 2070.
+
+====================================
+
+Bet made at 2018-09-07 15:07:13.917
+Y bets 170
+Plying a new game...
+Dice rolled at 2018-09-07 15:07:13.917
+Rolled a 10
+Dice rolled at 2018-09-07 15:07:13.917
+Rolled a 4
+Dice rolled at 2018-09-07 15:07:13.917
+Rolled a 11
+Dice rolled at 2018-09-07 15:07:13.918
+Rolled a 7
+*****Crap out! You lose.*****
+Game ended at 2018-09-07 15:07:13.918
+Y's balance: 1900.
+
+====================================
+
+Bet made at 2018-09-07 15:07:13.918
+Y bets 170
+Plying a new game...
+Dice rolled at 2018-09-07 15:07:13.918
+Rolled a 8
+Dice rolled at 2018-09-07 15:07:13.918
+Rolled a 10
+Dice rolled at 2018-09-07 15:07:13.918
+Rolled a 11
+Dice rolled at 2018-09-07 15:07:13.918
+Rolled a 9
+Dice rolled at 2018-09-07 15:07:13.918
+Rolled a 7
+*****Crap out! You lose.*****
+Game ended at 2018-09-07 15:07:13.918
+Y's balance: 1730.
+
+====================================
+
+Bet made at 2018-09-07 15:07:13.918
+Y bets 170
+Plying a new game...
+Dice rolled at 2018-09-07 15:07:13.918
+Rolled a 5
+Dice rolled at 2018-09-07 15:07:13.918
+Rolled a 8
+Dice rolled at 2018-09-07 15:07:13.918
+Rolled a 7
+*****Crap out! You lose.*****
+Game ended at 2018-09-07 15:07:13.918
+Y's balance: 1560.
+
+====================================
+
+Bet made at 2018-09-07 15:07:13.918
+Y bets 170
+Plying a new game...
+Dice rolled at 2018-09-07 15:07:13.918
+Rolled a 5
+Dice rolled at 2018-09-07 15:07:13.918
+Rolled a 6
+Dice rolled at 2018-09-07 15:07:13.919
+Rolled a 8
+Dice rolled at 2018-09-07 15:07:13.919
+Rolled a 3
+Dice rolled at 2018-09-07 15:07:13.919
+Rolled a 6
+Dice rolled at 2018-09-07 15:07:13.919
+Rolled a 7
+*****Crap out! You lose.*****
+Game ended at 2018-09-07 15:07:13.919
+Y's balance: 1390.
+
+====================================
+
+Bet made at 2018-09-07 15:07:13.919
+Y bets 170
+Plying a new game...
+Dice rolled at 2018-09-07 15:07:13.919
+Rolled a 11
+*****Natural! You win.*****
+Game ended at 2018-09-07 15:07:13.92
+Y's balance: 1560.
+
+====================================
+
+Bet made at 2018-09-07 15:07:13.92
+Y bets 170
+Plying a new game...
+Dice rolled at 2018-09-07 15:07:13.92
+Rolled a 9
+Dice rolled at 2018-09-07 15:07:13.92
+Rolled a 9
+*****Rolled the point! You win!*****
+Game ended at 2018-09-07 15:07:13.92
+Y's balance: 1730.
+
+====================================
+
+Bet made at 2018-09-07 15:07:13.92
+Y bets 170
+Plying a new game...
+Dice rolled at 2018-09-07 15:07:13.92
+Rolled a 9
+Dice rolled at 2018-09-07 15:07:13.92
+Rolled a 8
+Dice rolled at 2018-09-07 15:07:13.92
+Rolled a 7
+*****Crap out! You lose.*****
+Game ended at 2018-09-07 15:07:13.92
+Y's balance: 1560.
+
+====================================
+
+Bet made at 2018-09-07 15:07:13.92
+Y bets 170
+Plying a new game...
+Dice rolled at 2018-09-07 15:07:13.92
+Rolled a 7
+*****Natural! You win.*****
+Game ended at 2018-09-07 15:07:13.92
+Y's balance: 1730.
+
+====================================
+
+Bet made at 2018-09-07 15:07:13.921
+Y bets 170
+Plying a new game...
+Dice rolled at 2018-09-07 15:07:13.921
+Rolled a 3
+*****Craps! You lose.*****
+Game ended at 2018-09-07 15:07:13.921
+Y's balance: 1560.
+
+====================================
+
+Bet made at 2018-09-07 15:07:13.921
+Y bets 170
+Plying a new game...
+Dice rolled at 2018-09-07 15:07:13.921
+Rolled a 7
+*****Natural! You win.*****
+Game ended at 2018-09-07 15:07:13.921
+Y's balance: 1730.
+
+====================================
+
+Bet made at 2018-09-07 15:07:13.921
+Y bets 170
+Plying a new game...
+Dice rolled at 2018-09-07 15:07:13.921
+Rolled a 6
+Dice rolled at 2018-09-07 15:07:13.921
+Rolled a 3
+Dice rolled at 2018-09-07 15:07:13.921
+Rolled a 10
+Dice rolled at 2018-09-07 15:07:13.921
+Rolled a 8
+Dice rolled at 2018-09-07 15:07:13.921
+Rolled a 8
+Dice rolled at 2018-09-07 15:07:13.921
+Rolled a 8
+Dice rolled at 2018-09-07 15:07:13.921
+Rolled a 10
+Dice rolled at 2018-09-07 15:07:13.922
+Rolled a 8
+Dice rolled at 2018-09-07 15:07:13.922
+Rolled a 7
+*****Crap out! You lose.*****
+Game ended at 2018-09-07 15:07:13.922
+Y's balance: 1560.
+
+====================================
+
+Bet made at 2018-09-07 15:07:13.922
+Y bets 170
+Plying a new game...
+Dice rolled at 2018-09-07 15:07:13.922
+Rolled a 9
+Dice rolled at 2018-09-07 15:07:13.922
+Rolled a 5
+Dice rolled at 2018-09-07 15:07:13.922
+Rolled a 4
+Dice rolled at 2018-09-07 15:07:13.922
+Rolled a 9
+*****Rolled the point! You win!*****
+Game ended at 2018-09-07 15:07:13.922
+Y's balance: 1730.
+
+====================================
+
+Bet made at 2018-09-07 15:07:13.922
+Y bets 170
+Plying a new game...
+Dice rolled at 2018-09-07 15:07:13.922
+Rolled a 9
+Dice rolled at 2018-09-07 15:07:13.923
+Rolled a 8
+Dice rolled at 2018-09-07 15:07:13.923
+Rolled a 3
+Dice rolled at 2018-09-07 15:07:13.923
+Rolled a 4
+Dice rolled at 2018-09-07 15:07:13.923
+Rolled a 7
+*****Crap out! You lose.*****
+Game ended at 2018-09-07 15:07:13.923
+Y's balance: 1560.
+
+====================================
+
+Bet made at 2018-09-07 15:07:13.923
+Y bets 170
+Plying a new game...
+Dice rolled at 2018-09-07 15:07:13.923
+Rolled a 10
+Dice rolled at 2018-09-07 15:07:13.923
+Rolled a 7
+Dice rolled at 2018-09-07 15:07:13.923
+Rolled a 7
+*****Crap out! You lose.*****
+Game ended at 2018-09-07 15:07:13.923
+Y's balance: 1390.
+
+====================================
+
+Bet made at 2018-09-07 15:07:13.923
+Y bets 170
+Plying a new game...
+Dice rolled at 2018-09-07 15:07:13.923
+Rolled a 10
+Dice rolled at 2018-09-07 15:07:13.924
+Rolled a 8
+Dice rolled at 2018-09-07 15:07:13.924
+Rolled a 7
+*****Crap out! You lose.*****
+Game ended at 2018-09-07 15:07:13.924
+Y's balance: 1220.
+
+====================================
+
+Bet made at 2018-09-07 15:07:13.924
+Y bets 170
+Plying a new game...
+Dice rolled at 2018-09-07 15:07:13.924
+Rolled a 10
+Dice rolled at 2018-09-07 15:07:13.924
+Rolled a 3
+Dice rolled at 2018-09-07 15:07:13.924
+Rolled a 10
+*****Rolled the point! You win!*****
+Game ended at 2018-09-07 15:07:13.924
+Y's balance: 1390.
+
+====================================
+
+Bet made at 2018-09-07 15:07:13.924
+Y bets 170
+Plying a new game...
+Dice rolled at 2018-09-07 15:07:13.924
+Rolled a 2
+*****Craps! You lose.*****
+Game ended at 2018-09-07 15:07:13.924
+Y's balance: 1220.
+
+====================================
+
+Bet made at 2018-09-07 15:07:13.924
+Y bets 170
+Plying a new game...
+Dice rolled at 2018-09-07 15:07:13.925
+Rolled a 9
+Dice rolled at 2018-09-07 15:07:13.925
+Rolled a 9
+*****Rolled the point! You win!*****
+Game ended at 2018-09-07 15:07:13.925
+Y's balance: 1390.
+
+====================================
+
+Bet made at 2018-09-07 15:07:13.925
+Y bets 170
+Plying a new game...
+Dice rolled at 2018-09-07 15:07:13.925
+Rolled a 6
+Dice rolled at 2018-09-07 15:07:13.925
+Rolled a 6
+*****Rolled the point! You win!*****
+Game ended at 2018-09-07 15:07:13.925
+Y's balance: 1560.
+
+====================================
+
+Bet made at 2018-09-07 15:07:13.925
+Y bets 170
+Plying a new game...
+Dice rolled at 2018-09-07 15:07:13.925
+Rolled a 4
+Dice rolled at 2018-09-07 15:07:13.925
+Rolled a 2
+Dice rolled at 2018-09-07 15:07:13.925
+Rolled a 8
+Dice rolled at 2018-09-07 15:07:13.925
+Rolled a 5
+Dice rolled at 2018-09-07 15:07:13.925
+Rolled a 9
+Dice rolled at 2018-09-07 15:07:13.925
+Rolled a 4
+*****Rolled the point! You win!*****
+Game ended at 2018-09-07 15:07:13.926
+Y's balance: 1730.
+
+====================================
+
+Bet made at 2018-09-07 15:07:13.926
+Y bets 170
+Plying a new game...
+Dice rolled at 2018-09-07 15:07:13.926
+Rolled a 8
+Dice rolled at 2018-09-07 15:07:13.926
+Rolled a 5
+Dice rolled at 2018-09-07 15:07:13.926
+Rolled a 8
+*****Rolled the point! You win!*****
+Game ended at 2018-09-07 15:07:13.926
+Y's balance: 1900.
+
+====================================
+
+Bet made at 2018-09-07 15:07:13.926
+Y bets 170
+Plying a new game...
+Dice rolled at 2018-09-07 15:07:13.926
+Rolled a 7
+*****Natural! You win.*****
+Game ended at 2018-09-07 15:07:13.926
+Y's balance: 2070.
+
+====================================
+
+Bet made at 2018-09-07 15:07:13.926
+Y bets 170
+Plying a new game...
+Dice rolled at 2018-09-07 15:07:13.926
+Rolled a 8
+Dice rolled at 2018-09-07 15:07:13.926
+Rolled a 10
+Dice rolled at 2018-09-07 15:07:13.926
+Rolled a 7
+*****Crap out! You lose.*****
+Game ended at 2018-09-07 15:07:13.927
+Y's balance: 1900.
+
+====================================
+
+Bet made at 2018-09-07 15:07:13.927
+Y bets 170
+Plying a new game...
+Dice rolled at 2018-09-07 15:07:13.927
+Rolled a 5
+Dice rolled at 2018-09-07 15:07:13.927
+Rolled a 2
+Dice rolled at 2018-09-07 15:07:13.927
+Rolled a 5
+*****Rolled the point! You win!*****
+Game ended at 2018-09-07 15:07:13.927
+Y's balance: 2070.
+
+====================================
+
+Bet made at 2018-09-07 15:07:13.927
+Y bets 170
+Plying a new game...
+Dice rolled at 2018-09-07 15:07:13.927
+Rolled a 5
+Dice rolled at 2018-09-07 15:07:13.927
+Rolled a 7
+Dice rolled at 2018-09-07 15:07:13.927
+Rolled a 8
+Dice rolled at 2018-09-07 15:07:13.927
+Rolled a 6
+Dice rolled at 2018-09-07 15:07:13.927
+Rolled a 5
+*****Rolled the point! You win!*****
+Game ended at 2018-09-07 15:07:13.927
+Y's balance: 2240.
+
+====================================
+
+Bet made at 2018-09-07 15:07:13.928
+Y bets 170
+Plying a new game...
+Dice rolled at 2018-09-07 15:07:13.928
+Rolled a 5
+Dice rolled at 2018-09-07 15:07:13.928
+Rolled a 3
+Dice rolled at 2018-09-07 15:07:13.928
+Rolled a 2
+Dice rolled at 2018-09-07 15:07:13.928
+Rolled a 3
+Dice rolled at 2018-09-07 15:07:13.928
+Rolled a 8
+Dice rolled at 2018-09-07 15:07:13.928
+Rolled a 9
+Dice rolled at 2018-09-07 15:07:13.928
+Rolled a 7
+*****Crap out! You lose.*****
+Game ended at 2018-09-07 15:07:13.928
+Y's balance: 2070.
+
+====================================
+
+Bet made at 2018-09-07 15:07:13.928
+Y bets 170
+Plying a new game...
+Dice rolled at 2018-09-07 15:07:13.928
+Rolled a 4
+Dice rolled at 2018-09-07 15:07:13.928
+Rolled a 8
+Dice rolled at 2018-09-07 15:07:13.928
+Rolled a 6
+Dice rolled at 2018-09-07 15:07:13.929
+Rolled a 10
+Dice rolled at 2018-09-07 15:07:13.93
+Rolled a 3
+Dice rolled at 2018-09-07 15:07:13.93
+Rolled a 7
+*****Crap out! You lose.*****
+Game ended at 2018-09-07 15:07:13.93
+Y's balance: 1900.
+
+====================================
+
+Bet made at 2018-09-07 15:07:13.93
+Y bets 170
+Plying a new game...
+Dice rolled at 2018-09-07 15:07:13.93
+Rolled a 8
+Dice rolled at 2018-09-07 15:07:13.93
+Rolled a 5
+Dice rolled at 2018-09-07 15:07:13.93
+Rolled a 5
+Dice rolled at 2018-09-07 15:07:13.93
+Rolled a 8
+*****Rolled the point! You win!*****
+Game ended at 2018-09-07 15:07:13.931
+Y's balance: 2070.
+
+====================================
+
+Bet made at 2018-09-07 15:07:13.931
+Y bets 170
+Plying a new game...
+Dice rolled at 2018-09-07 15:07:13.931
+Rolled a 6
+Dice rolled at 2018-09-07 15:07:13.931
+Rolled a 5
+Dice rolled at 2018-09-07 15:07:13.931
+Rolled a 3
+Dice rolled at 2018-09-07 15:07:13.931
+Rolled a 7
+*****Crap out! You lose.*****
+Game ended at 2018-09-07 15:07:13.931
+Y's balance: 1900.
+
+====================================
+
+Bet made at 2018-09-07 15:07:13.931
+Y bets 170
+Plying a new game...
+Dice rolled at 2018-09-07 15:07:13.931
+Rolled a 11
+*****Natural! You win.*****
+Game ended at 2018-09-07 15:07:13.931
+Y's balance: 2070.
+
+====================================
+
+Bet made at 2018-09-07 15:07:13.931
+Y bets 170
+Plying a new game...
+Dice rolled at 2018-09-07 15:07:13.931
+Rolled a 12
+*****Craps! You lose.*****
+Game ended at 2018-09-07 15:07:13.931
+Y's balance: 1900.
+
+====================================
+
+Bet made at 2018-09-07 15:07:13.931
+Y bets 170
+Plying a new game...
+Dice rolled at 2018-09-07 15:07:13.931
+Rolled a 5
+Dice rolled at 2018-09-07 15:07:13.931
+Rolled a 8
+Dice rolled at 2018-09-07 15:07:13.932
+Rolled a 8
+Dice rolled at 2018-09-07 15:07:13.932
+Rolled a 4
+Dice rolled at 2018-09-07 15:07:13.932
+Rolled a 8
+Dice rolled at 2018-09-07 15:07:13.932
+Rolled a 8
+Dice rolled at 2018-09-07 15:07:13.932
+Rolled a 7
+*****Crap out! You lose.*****
+Game ended at 2018-09-07 15:07:13.932
+Y's balance: 1730.
+
+====================================
+
+Bet made at 2018-09-07 15:07:13.932
+Y bets 170
+Plying a new game...
+Dice rolled at 2018-09-07 15:07:13.932
+Rolled a 4
+Dice rolled at 2018-09-07 15:07:13.932
+Rolled a 6
+Dice rolled at 2018-09-07 15:07:13.932
+Rolled a 12
+Dice rolled at 2018-09-07 15:07:13.932
+Rolled a 5
+Dice rolled at 2018-09-07 15:07:13.932
+Rolled a 8
+Dice rolled at 2018-09-07 15:07:13.932
+Rolled a 4
+*****Rolled the point! You win!*****
+Game ended at 2018-09-07 15:07:13.932
+Y's balance: 1900.
+
+====================================
+
+Bet made at 2018-09-07 15:07:13.932
+Y bets 170
+Plying a new game...
+Dice rolled at 2018-09-07 15:07:13.932
+Rolled a 2
+*****Craps! You lose.*****
+Game ended at 2018-09-07 15:07:13.932
+Y's balance: 1730.
+
+====================================
+
+Bet made at 2018-09-07 15:07:13.932
+Y bets 170
+Plying a new game...
+Dice rolled at 2018-09-07 15:07:13.932
+Rolled a 5
+Dice rolled at 2018-09-07 15:07:13.933
+Rolled a 7
+Dice rolled at 2018-09-07 15:07:13.933
+Rolled a 6
+Dice rolled at 2018-09-07 15:07:13.933
+Rolled a 6
+Dice rolled at 2018-09-07 15:07:13.933
+Rolled a 9
+Dice rolled at 2018-09-07 15:07:13.933
+Rolled a 6
+Dice rolled at 2018-09-07 15:07:13.933
+Rolled a 9
+Dice rolled at 2018-09-07 15:07:13.933
+Rolled a 7
+*****Crap out! You lose.*****
+Game ended at 2018-09-07 15:07:13.933
+Y's balance: 1560.
+
+====================================
+
+Bet made at 2018-09-07 15:07:13.934
+Y bets 170
+Plying a new game...
+Dice rolled at 2018-09-07 15:07:13.934
+Rolled a 3
+*****Craps! You lose.*****
+Game ended at 2018-09-07 15:07:13.934
+Y's balance: 1390.
+
+====================================
+
+Bet made at 2018-09-07 15:07:13.934
+Y bets 170
+Plying a new game...
+Dice rolled at 2018-09-07 15:07:13.934
+Rolled a 9
+Dice rolled at 2018-09-07 15:07:13.934
+Rolled a 9
+*****Rolled the point! You win!*****
+Game ended at 2018-09-07 15:07:13.934
+Y's balance: 1560.
+
+====================================
+
+Bet made at 2018-09-07 15:07:13.934
+Y bets 170
+Plying a new game...
+Dice rolled at 2018-09-07 15:07:13.934
+Rolled a 8
+Dice rolled at 2018-09-07 15:07:13.934
+Rolled a 5
+Dice rolled at 2018-09-07 15:07:13.934
+Rolled a 3
+Dice rolled at 2018-09-07 15:07:13.934
+Rolled a 6
+Dice rolled at 2018-09-07 15:07:13.934
+Rolled a 11
+Dice rolled at 2018-09-07 15:07:13.934
+Rolled a 7
+*****Crap out! You lose.*****
+Game ended at 2018-09-07 15:07:13.934
+Y's balance: 1390.
+
+====================================
+
+Bet made at 2018-09-07 15:07:13.935
+Y bets 170
+Plying a new game...
+Dice rolled at 2018-09-07 15:07:13.935
+Rolled a 12
+*****Craps! You lose.*****
+Game ended at 2018-09-07 15:07:13.935
+Y's balance: 1220.
+
+====================================
+
+Bet made at 2018-09-07 15:07:13.935
+Y bets 170
+Plying a new game...
+Dice rolled at 2018-09-07 15:07:13.935
+Rolled a 9
+Dice rolled at 2018-09-07 15:07:13.935
+Rolled a 3
+Dice rolled at 2018-09-07 15:07:13.935
+Rolled a 7
+*****Crap out! You lose.*****
+Game ended at 2018-09-07 15:07:13.935
+Y's balance: 1050.
+
+====================================
+
+Bet made at 2018-09-07 15:07:13.935
+Y bets 170
+Plying a new game...
+Dice rolled at 2018-09-07 15:07:13.935
+Rolled a 8
+Dice rolled at 2018-09-07 15:07:13.935
+Rolled a 9
+Dice rolled at 2018-09-07 15:07:13.935
+Rolled a 4
+Dice rolled at 2018-09-07 15:07:13.935
+Rolled a 3
+Dice rolled at 2018-09-07 15:07:13.935
+Rolled a 3
+Dice rolled at 2018-09-07 15:07:13.935
+Rolled a 5
+Dice rolled at 2018-09-07 15:07:13.936
+Rolled a 7
+*****Crap out! You lose.*****
+Game ended at 2018-09-07 15:07:13.936
+Y's balance: 880.
+
+====================================
+
+Bet made at 2018-09-07 15:07:13.936
+Y bets 170
+Plying a new game...
+Dice rolled at 2018-09-07 15:07:13.936
+Rolled a 5
+Dice rolled at 2018-09-07 15:07:13.936
+Rolled a 10
+Dice rolled at 2018-09-07 15:07:13.936
+Rolled a 7
+*****Crap out! You lose.*****
+Game ended at 2018-09-07 15:07:13.936
+Y's balance: 710.
+
+====================================
+
+Bet made at 2018-09-07 15:07:13.936
+Y bets 170
+Plying a new game...
+Dice rolled at 2018-09-07 15:07:13.936
+Rolled a 8
+Dice rolled at 2018-09-07 15:07:13.936
+Rolled a 5
+Dice rolled at 2018-09-07 15:07:13.936
+Rolled a 4
+Dice rolled at 2018-09-07 15:07:13.936
+Rolled a 8
+*****Rolled the point! You win!*****
+Game ended at 2018-09-07 15:07:13.936
+Y's balance: 880.
+
+====================================
+
+Bet made at 2018-09-07 15:07:13.936
+Y bets 170
+Plying a new game...
+Dice rolled at 2018-09-07 15:07:13.936
+Rolled a 3
+*****Craps! You lose.*****
+Game ended at 2018-09-07 15:07:13.936
+Y's balance: 710.
+
+====================================
+
+Bet made at 2018-09-07 15:07:13.937
+Y bets 170
+Plying a new game...
+Dice rolled at 2018-09-07 15:07:13.937
+Rolled a 8
+Dice rolled at 2018-09-07 15:07:13.937
+Rolled a 8
+*****Rolled the point! You win!*****
+Game ended at 2018-09-07 15:07:13.937
+Y's balance: 880.
+
+====================================
+
+Bet made at 2018-09-07 15:07:13.937
+Y bets 170
+Plying a new game...
+Dice rolled at 2018-09-07 15:07:13.937
+Rolled a 12
+*****Craps! You lose.*****
+Game ended at 2018-09-07 15:07:13.937
+Y's balance: 710.
+
+====================================
+
+Bet made at 2018-09-07 15:07:13.937
+Y bets 170
+Plying a new game...
+Dice rolled at 2018-09-07 15:07:13.937
+Rolled a 4
+Dice rolled at 2018-09-07 15:07:13.937
+Rolled a 5
+Dice rolled at 2018-09-07 15:07:13.937
+Rolled a 7
+*****Crap out! You lose.*****
+Game ended at 2018-09-07 15:07:13.938
+Y's balance: 540.
+
+====================================
+
+Bet made at 2018-09-07 15:07:13.938
+Y bets 170
+Plying a new game...
+Dice rolled at 2018-09-07 15:07:13.938
+Rolled a 5
+Dice rolled at 2018-09-07 15:07:13.938
+Rolled a 7
+Dice rolled at 2018-09-07 15:07:13.938
+Rolled a 3
+Dice rolled at 2018-09-07 15:07:13.939
+Rolled a 8
+Dice rolled at 2018-09-07 15:07:13.939
+Rolled a 9
+Dice rolled at 2018-09-07 15:07:13.939
+Rolled a 8
+Dice rolled at 2018-09-07 15:07:13.939
+Rolled a 9
+Dice rolled at 2018-09-07 15:07:13.939
+Rolled a 7
+*****Crap out! You lose.*****
+Game ended at 2018-09-07 15:07:13.942
+Y's balance: 370.
+
+====================================
+
+Bet made at 2018-09-07 15:07:13.943
+Y bets 170
+Plying a new game...
+Dice rolled at 2018-09-07 15:07:13.943
+Rolled a 9
+Dice rolled at 2018-09-07 15:07:13.943
+Rolled a 7
+Dice rolled at 2018-09-07 15:07:13.943
+Rolled a 8
+Dice rolled at 2018-09-07 15:07:13.943
+Rolled a 3
+Dice rolled at 2018-09-07 15:07:13.943
+Rolled a 4
+Dice rolled at 2018-09-07 15:07:13.943
+Rolled a 7
+*****Crap out! You lose.*****
+Game ended at 2018-09-07 15:07:13.943
+Y's balance: 200.
+
+====================================
+
+Bet made at 2018-09-07 15:07:13.943
+Y bets 170
+Plying a new game...
+Dice rolled at 2018-09-07 15:07:13.943
+Rolled a 6
+Dice rolled at 2018-09-07 15:07:13.943
+Rolled a 5
+Dice rolled at 2018-09-07 15:07:13.943
+Rolled a 5
+Dice rolled at 2018-09-07 15:07:13.943
+Rolled a 7
+*****Crap out! You lose.*****
+Game ended at 2018-09-07 15:07:13.943
+Y's balance: 30.
+
+====================================
+
+Bet made at 2018-09-07 15:07:13.943
+Y bets 170
+Plying a new game...
+Dice rolled at 2018-09-07 15:07:13.943
+Rolled a 6
+Dice rolled at 2018-09-07 15:07:13.943
+Rolled a 7
+Dice rolled at 2018-09-07 15:07:13.943
+Rolled a 5
+Dice rolled at 2018-09-07 15:07:13.943
+Rolled a 3
+Dice rolled at 2018-09-07 15:07:13.943
+Rolled a 12
+Dice rolled at 2018-09-07 15:07:13.943
+Rolled a 8
+Dice rolled at 2018-09-07 15:07:13.943
+Rolled a 9
+Dice rolled at 2018-09-07 15:07:13.943
+Rolled a 8
+Dice rolled at 2018-09-07 15:07:13.944
+Rolled a 4
+Dice rolled at 2018-09-07 15:07:13.944
+Rolled a 7
+*****Crap out! You lose.*****
+Game ended at 2018-09-07 15:07:13.944
+Y's balance: 0.
+
+====================================
+
+*****************************
+*** SIMULATION STATISTICS ***
+*****************************
+Games played: 146
+Games won: 72
+Games lost: 74
+Maximum Rolls in a single game: 12
+Natural Count: 23
+Craps Count: 22
+Maximum Winning Streak: 147
+Maximum Loosing Streak: 148
+Maximum balance: 200 during game 1

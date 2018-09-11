@@ -1,0 +1,15 @@
+Starting thread: Thread1 at 2018-09-07 18:31:22.328
+Thread : Thread1 ended at 2018-09-07 18:31:22.494
+Games Played :0
+Starting thread: Thread2 at 2018-09-07 18:31:22.498
+Thread : Thread2 ended at 2018-09-07 18:31:22.498
+Games Played :0
+Starting thread: Thread3 at 2018-09-07 18:31:22.5
+Thread : Thread3 ended at 2018-09-07 18:31:22.5
+Games Played :0
+Starting thread: Thread4 at 2018-09-07 18:31:22.5
+Thread : Thread4 ended at 2018-09-07 18:31:22.501
+Games Played :2
+Starting thread: Thread5 at 2018-09-07 18:31:22.501
+Thread : Thread5 ended at 2018-09-07 18:31:22.502
+Games Played :4
